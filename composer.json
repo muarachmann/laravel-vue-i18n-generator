@@ -1,5 +1,5 @@
 {
-    "name": "librenms/laravel-vue-i18n-generator",
+    "name": "muarachmann/laravel-vue-i18n-generator",
     "description": "Generates a vue-i18n compatible include file from your Laravel translations.",
     "license": "MIT",
     "keywords": ["laravel", "vue-i18n"],
